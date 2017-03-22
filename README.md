@@ -15,11 +15,7 @@
 执行测试：
 
     npm test
-    
-执行index.js
-    
-    npm run index
-    
+
     
 ## 细节
     

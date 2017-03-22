@@ -26,7 +26,6 @@ describe("测试描述", function() {
         var result = _.flatten(console.log.args).join("\n");
         var expect_string = '';
 
-        console.log("result: " + result);
         expect(expect_string).to.equal(result);
     });
 });
